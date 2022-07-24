@@ -1,0 +1,8 @@
+Sitemap: https://farheen-pahelvan-111.netlify.app/sitemap.xml
+
+user-agent:*
+Allow: /
+Allow: /content/uploads/
+Disallow: /html/
+Disallow: /css/
+Disallow: /js/
